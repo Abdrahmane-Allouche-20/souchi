@@ -2,7 +2,7 @@ export  const memories=[
   {
     title:'matched emojis',
     description:'here matched our emojis together since that day i didnt even change them or think of it its make me feel like we have same account',
-    img:'../public/emojis.jpg'
+    img:'../public/Emojis.jpg'
   },
   {
     title:'flowers for you ',
